@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌍  I'm based in Kathmandu, Nepal<br>✉️  You can contact me  bijaykadariya@gmail.com<br>🧠 I'm learning PL/SQL, diving deep into databases, writing stored procedures, triggers, and chasing down every SQL optimization trick I can find.<br>🤝  I'm open to collaborating on any project that interests me.
+🌍  I'm based in Kathmandu, Nepal<br>✉️  You can contact me  kadariya.bijay33@gmail.com<br>🧠 I'm learning PL/SQL, diving deep into databases, writing stored procedures, triggers, and chasing down every SQL optimization trick I can find.<br>🤝  I'm open to collaborating on any project that interests me.
 
 
 ## 🌐 Socials:
@@ -18,11 +18,5 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=suyog100&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=suyog100&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
